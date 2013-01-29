@@ -1,1 +1,15 @@
-/spring-mvc-template
+#/spring-mvc-template
+
+
+# config files
+.*
+
+# project
+target
+
+# Package Files #
+
+*.class
+*.jar
+*.war
+*.ear
